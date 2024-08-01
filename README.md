@@ -1,11 +1,18 @@
 ![MasterHead](https://cdn.prod.website-files.com/6344c9cef89d6f2270a38908/64d6bd51ab17a00828b644bf_header.webp)
 <h1 align="center">Hi 👋, I'm Rustem Cabrayilov</h1>
-<h3 align="center">A passionate Web developer from Azerbaijan</h3>
+<h3 align="center">A passionate software developer from Azerbaijan</h3>
+
+- 🌱 I’m currently learning **.Net core**
+
+- 💬 Ask me about **Web development**
+
+- 📫 How to reach me **crustem70@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rustem cebrayilov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rustem cebrayilov" height="30" width="40" /></a>
 <a href="https://instagram.com/justrustemm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="justrustemm" height="30" width="40" /></a>
+<a href="https://medium.com/@rustemcabrayilov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rustemcabrayilov" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
