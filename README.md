@@ -23,3 +23,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rustemcabrayilov&show_icons=true&locale=en" alt="rustemcabrayilov" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rustemcabrayilov&" alt="rustemcabrayilov" /></p>
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=RustemCabrayilov&count_private=true&show_icons=true&theme=radical&include_all_commits=true&private_token=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)
