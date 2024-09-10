@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Rustem Cabrayilov</h1>
 <h3 align="center">A passionate software developer from Azerbaijan</h3>
 
-- 🌱 I’m currently learning **.Net core**
+- 🌱 I’m currently learning **.NET Core**
 
 - 💬 Ask me about **Web development**
 
