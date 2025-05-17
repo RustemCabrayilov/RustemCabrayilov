@@ -44,7 +44,7 @@
   <a href="https://aws.amazon.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/></a>
   <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
   <a href="https://www.elastic.co/elasticsearch/" target="_blank"><img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/></a>
-  <a href="https://github.com/reactiveui/refit" target="_blank"><img src="https://avatars.githubusercontent.com/u/23203864?s=200&v=4" alt="refit" width="40" height="40"/></a>
+  <a href="https://anthonygiretti.com/wp-content/uploads/2019/11/refit_logo6.png" target="_blank"><img src="https://avatars.githubusercontent.com/u/23203864?s=200&v=4" alt="refit" width="40" height="40"/></a>
   <!-- Version Control -->
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
 </p>
