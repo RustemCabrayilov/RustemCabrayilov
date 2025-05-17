@@ -12,11 +12,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/rustem cebrayilov" target="blank">
+  <a href="https://www.linkedin.com/in/rustem-cebrayilov-7463a7279" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rustem cebrayilov" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/justrustemm" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="justrustemm" height="30" width="40" />
   </a>
   <a href="https://medium.com/@rustemcabrayilov" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rustemcabrayilov" height="30" width="40" />
@@ -48,9 +45,6 @@
   <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
   <a href="https://www.elastic.co/elasticsearch/" target="_blank"><img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/></a>
   <a href="https://github.com/reactiveui/refit" target="_blank"><img src="https://avatars.githubusercontent.com/u/23203864?s=200&v=4" alt="refit" width="40" height="40"/></a>
-  <a href="https://oauth.net/" target="_blank"><img src="https://www.vectorlogo.zone/logos/oauthio/oauthio-icon.svg" alt="oauth" width="40" height="40"/></a>
-  <a href="#" target="_blank"><img src="https://img.icons8.com/ios-filled/50/ocr.png" alt="ocr" width="40" height="40"/></a>
-
   <!-- Version Control -->
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
 </p>
