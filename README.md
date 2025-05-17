@@ -44,16 +44,21 @@
   <a href="https://aws.amazon.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="50" height="50"/></a>
   <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/></a>
   <a href="https://www.elastic.co/elasticsearch/" target="_blank"><img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="50" height="50"/></a>
-  <a href="https://images.iambacon.co.uk/blog/blazor-with-refit.png" target="_blank"><img src="https://images.iambacon.co.uk/blog/blazor-with-refit.png" alt="refit" width="60" height="50"/></a>
+  <a href="https://github.com/reactiveui/refit" target="_blank"><img src="https://avatars.githubusercontent.com/u/23202365?s=200&v=4" alt="refit" width="50" height="50"/></a>
+
   <!-- Version Control -->
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rustemcabrayilov&show_icons=true&locale=en&layout=compact" alt="rustemcabrayilov" /></p>
+<h3 align="left">📊 GitHub Stats</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rustemcabrayilov&show_icons=true&locale=en" alt="rustemcabrayilov" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rustemcabrayilov&" alt="rustemcabrayilov" /></p>
-
-<!-- Optional: Only use this if you’ve configured a working private_token securely -->
-<!-- ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=RustemCabrayilov&count_private=true&show_icons=true&theme=radical&include_all_commits=true) -->
+<table>
+  <tr>
+    <td>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rustemcabrayilov&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+    </td>
+    <td>
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rustemcabrayilov" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
