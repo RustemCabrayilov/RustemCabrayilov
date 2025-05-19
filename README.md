@@ -40,7 +40,7 @@
   <a href="https://aws.amazon.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="50" height="50"/></a>
   <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/></a>
   <a href="https://www.elastic.co/elasticsearch/" target="_blank"><img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="50" height="50"/></a>
-  <a href="https://github.com/reactiveui/refit" target="_blank"><img src="https://avatars.githubusercontent.com/u/23202365?s=200&v=4" alt="refit" width="50" height="50"/></a>
+  <a href="https://github.com/reactiveui/refit" target="_blank"><img src="https://github.com/reactiveui/refit/blob/main/refit_logo.png" alt="refit" width="50" height="50"/></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/></a>
 
   <h3 align="left">📊 GitHub Stats</h3>
