@@ -53,4 +53,3 @@
 </table>
 </p>
 
-make first two images gap 150 px i tied  but failed
