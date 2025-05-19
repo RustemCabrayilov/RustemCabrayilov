@@ -50,7 +50,7 @@
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/></a>
 </p>
 
-<h3 align="left">📊 GitHub Stats</h3>
+<h3 align="right">📊 GitHub Stats</h3>
 
 <table>
   <tr>
